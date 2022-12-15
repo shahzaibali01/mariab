@@ -1,0 +1,7243 @@
+[
+	{
+		"id": "abcdeefeabcde98980",
+		"name": "Maria.B",
+		"stores": [
+			{
+				"id": "abcdeefea95463cda20",
+				"name": "Packages",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.337Z",
+				"heatmap": "2022-12-14T09:42:23.337Z",
+				"pos": "2022-12-14T09:42:23.337Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda21",
+				"name": "Emporium",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.337Z",
+				"heatmap": "2022-12-14T09:42:23.337Z",
+				"pos": "2022-12-14T09:42:23.337Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda22",
+				"name": "Vogue Tower",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.337Z",
+				"heatmap": "2022-12-14T09:42:23.337Z",
+				"pos": "2022-12-14T09:42:23.337Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda23",
+				"name": "Xinhua",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda24",
+				"name": "Halley Tower",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda25",
+				"name": "MM Alam",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda55",
+								"label": "CH 6",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda26",
+				"name": "Y Block DHA",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda55",
+								"label": "CH 6",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda55",
+								"label": "CH 6",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda56",
+								"label": "CH 7",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda27",
+				"name": "Gulberg Galleria",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda28",
+				"name": "Centauras",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda55",
+								"label": "CH 6",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda29",
+				"name": "Dolmen Mall",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "START",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda55",
+								"label": "CH 6",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda210",
+				"name": "Haydri Karachi",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda211",
+				"name": "Haidarabad",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda212",
+				"name": "Faisalabad",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda55",
+								"label": "CH 6",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda213",
+				"name": "Sialkot",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda55",
+								"label": "CH 6",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda56",
+								"label": "CH 7",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda214",
+				"name": "Multan",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda215",
+				"name": "Bahawalpur",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "RESTART",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda216",
+				"name": "Nankana",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda217",
+				"name": "Sahiwal",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "START",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda218",
+				"name": "Pehsawar",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda219",
+				"name": "Swat",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "START",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda55",
+								"label": "CH 6",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda56",
+								"label": "CH 7",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "abcdeefeabcde98981",
+		"name": "Sapphire",
+		"stores": [
+			{
+				"id": "abcdeefea95463cda20",
+				"name": "Packages",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "RESTART",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda21",
+				"name": "Emporium",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda22",
+				"name": "Vogue Tower",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda23",
+				"name": "Xinhua",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda24",
+				"name": "Halley Tower",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda25",
+				"name": "MM Alam",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "START",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda55",
+								"label": "CH 6",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda56",
+								"label": "CH 7",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda26",
+				"name": "Y Block DHA",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda27",
+				"name": "Gulberg Galleria",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda28",
+				"name": "Centauras",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "START",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda29",
+				"name": "Dolmen Mall",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda55",
+								"label": "CH 6",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda56",
+								"label": "CH 7",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "START",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda210",
+				"name": "Haydri Karachi",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "START",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda211",
+				"name": "Haidarabad",
+				"is_connected": false,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda212",
+				"name": "Faisalabad",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda55",
+								"label": "CH 6",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda213",
+				"name": "Sialkot",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda214",
+				"name": "Multan",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "START",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda215",
+				"name": "Bahawalpur",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda216",
+				"name": "Nankana",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda217",
+				"name": "Sahiwal",
+				"is_connected": false,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda218",
+				"name": "Pehsawar",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda219",
+				"name": "Swat",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda220",
+				"name": "Quetta",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda221",
+				"name": "Rawalpindi",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "abcdeefeabcde98982",
+		"name": "Stile",
+		"stores": [
+			{
+				"id": "abcdeefea95463cda20",
+				"name": "Packages",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda55",
+								"label": "CH 6",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda21",
+				"name": "Emporium",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda22",
+				"name": "Vogue Tower",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda55",
+								"label": "CH 6",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda56",
+								"label": "CH 7",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda23",
+				"name": "Xinhua",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda24",
+				"name": "Halley Tower",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda25",
+				"name": "MM Alam",
+				"is_connected": false,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda55",
+								"label": "CH 6",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda26",
+				"name": "Y Block DHA",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "RESTART",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda55",
+								"label": "CH 6",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda56",
+								"label": "CH 7",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda27",
+				"name": "Gulberg Galleria",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda55",
+								"label": "CH 6",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda28",
+				"name": "Centauras",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda29",
+				"name": "Dolmen Mall",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda210",
+				"name": "Haydri Karachi",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda211",
+				"name": "Haidarabad",
+				"is_connected": false,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda55",
+								"label": "CH 6",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda56",
+								"label": "CH 7",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda212",
+				"name": "Faisalabad",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda55",
+								"label": "CH 6",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda213",
+				"name": "Sialkot",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda214",
+				"name": "Multan",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "START",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda215",
+				"name": "Bahawalpur",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "abcdeefeabcde98983",
+		"name": "HushPuppies",
+		"stores": [
+			{
+				"id": "abcdeefea95463cda20",
+				"name": "Packages",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda21",
+				"name": "Emporium",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda22",
+				"name": "Vogue Tower",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda23",
+				"name": "Xinhua",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda55",
+								"label": "CH 6",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda24",
+				"name": "Halley Tower",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda55",
+								"label": "CH 6",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda56",
+								"label": "CH 7",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "START",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda25",
+				"name": "MM Alam",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOP",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "NOT AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda54",
+								"label": "CH 5",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STARTED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda26",
+				"name": "Y Block DHA",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STARTED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOP",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					},
+					{
+						"id": "abcdeefea95463cda31",
+						"label": "First Floor",
+						"level": 1,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "RESTART",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda53",
+								"label": "CH 4",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "abcdeefea95463cda27",
+				"name": "Gulberg Galleria",
+				"is_connected": true,
+				"footfall": "2022-12-14T09:42:23.338Z",
+				"heatmap": "2022-12-14T09:42:23.338Z",
+				"pos": "2022-12-14T09:42:23.338Z",
+				"heatmap_delay": 300,
+				"pos_delay": 15,
+				"floors": [
+					{
+						"id": "abcdeefea95463cda30",
+						"label": "Ground Floor",
+						"level": 0,
+						"cameras": [
+							{
+								"id": "abcdeefea95463cda50",
+								"label": "CH 1",
+								"stream": "NOT AVAILABLE",
+								"priority": "FIXED",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": true,
+									"age": true,
+									"gender": true,
+									"heatmap": false,
+									"dwell_time": false,
+									"journey": false
+								}
+							},
+							{
+								"id": "abcdeefea95463cda51",
+								"label": "CH 2",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "QUEUED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							},
+							{
+								"id": "abcdeefea95463cda52",
+								"label": "CH 3",
+								"stream": "AVAILABLE",
+								"priority": "ROTATE",
+								"processing": "STOPPED",
+								"features": {
+									"footfall": false,
+									"age": false,
+									"gender": false,
+									"heatmap": true,
+									"dwell_time": true,
+									"journey": true
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
